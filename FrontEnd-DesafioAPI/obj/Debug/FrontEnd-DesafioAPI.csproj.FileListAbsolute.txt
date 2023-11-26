@@ -1,0 +1,50 @@
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.exe.config
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.exe
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.pdb
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.Form1.resources
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.Properties.Resources.resources
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.exe
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.pdb
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felip\source\repos\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.CopyComplete
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.exe.config
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.exe
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\FrontEnd-DesafioAPI.pdb
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Buffers.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Memory.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Text.Json.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.ValueTuple.dll
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Buffers.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Memory.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Text.Json.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\bin\Debug\System.ValueTuple.xml
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.accountSection.resources
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.Properties.Resources.resources
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.csproj.CopyComplete
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.exe
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd-DesafioAPI.pdb
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.AdmSide.resources
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.ClientSide.resources
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.NovoProduto.resources
+C:\Users\felip\Desktop\codiguzin\facul\DotNet\Desafio APi\FrontEnd-DesafioAPI\FrontEnd-DesafioAPI\obj\Debug\FrontEnd_DesafioAPI.AtualizarProduto.resources
